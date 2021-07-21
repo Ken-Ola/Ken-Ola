@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Ken-Ola or Ken DJIWAN is my name
+- 👀 I’m interested in Cyber-Sécurity and IA
+- 🌱 I’m currently learning forensic, Log Analysis, Pentesting, and orther on tryhackme
+- 💞️ I’m open to work and learn 
